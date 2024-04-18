@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "353865454355",
+    "firebase_url": "https://sireh-database5-default-rtdb.firebaseio.com",
+    "project_id": "sireh-database5",
+    "storage_bucket": "sireh-database5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353865454355:android:977bedb052525f345380e6",
+        "android_client_info": {
+          "package_name": "com.example.lab4firebaseejemplo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjsLKGb7u7izTu-9fGSaXMB7st0Xd6vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
